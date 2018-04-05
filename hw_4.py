@@ -109,7 +109,7 @@ def part_g(n):
     bound_q = calculate_epsilon_quantized(n)
 
     print('Class F :: #samples : {} t_min: {} excess_risk :{} VC bound : {}'.format(n,t_min,excess_risk,bound))
-    print('Class F :: #samples : {} t_min: {} excess_risk :{} Quantized bound : {}'.format(n,t_min_q,excess_risk_q,bound_q))
+    print('Class F_q :: #samples : {} t_min: {} excess_risk :{} Quantized bound : {}'.format(n,t_min_q,excess_risk_q,bound_q))
 
 
 if __name__ == '__main__':
