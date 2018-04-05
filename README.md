@@ -1,2 +1,4 @@
-## Statistical Learning Theory - Homework 3
+## Statistical Learning Theory (2DI70)
+
+Code for Homeworks 3 and 4
 
